@@ -71,3 +71,5 @@ code, including the plot type (`plot`) and range (`dmin` and `dmax`).
   function "Extract Data" in the Crystal Ball ribbon. When that
   is performed, remember to mark that you also want to export the
   "TrialValues" — without those, this script will not function.
+- The `cbsens.py` script additionally requires you to save
+  sensitivity data to output, which is not on by default.
