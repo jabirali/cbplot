@@ -26,11 +26,11 @@ The scripts require that you have installed Python 3 with the libraries `numpy`,
 `scipy`, `pandas`, `matplotlib`, and `seaborn`. If you use a Linux distribution
 like Ubuntu, all of these can be installed from the system package manager:
 
-    sudo apt install python3-numpy python3-pandas python3-matplotlib python3-seaborn
+    sudo apt install python3-numpy python3-scipy python3-pandas python3-matplotlib python3-seaborn
     
 If you use any platform that uses [Anaconda][conda], you can similarly run:
 
-    conda install numpy pandas matplotlib seaborn
+    conda install numpy scipy pandas matplotlib seaborn
     
 Alternatively, all libraries can be installed using `pip` if you prefer that.
     
