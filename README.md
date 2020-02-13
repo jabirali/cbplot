@@ -14,8 +14,8 @@ number of simulations more streamlined, and produces plots that look like this:
 ![Distribution plot][dist]
 ![Sensitivity plot][sens]
 
-In addition to generating plots, the scripts output statistical information and
-sensitivity data as plaintext `*.dat` files, which are often easier to work with.
+In addition, the scripts output statistical information and sensitivity data as
+plaintext `*.dat` files, which are often easier to work with than Excel.
 
 [dist]: distribution.png
 [sens]: sensitivity.png
